@@ -3,6 +3,7 @@
         {
             "id":"1",
             "may":"Maybelline",
+            "book_1": "Crime and Punishment",
             "text":"Null",
             "phone":1234567890,
             "price":"1 $",
@@ -15,6 +16,7 @@
         {
             "id":"2",
             "may":"Glossier",
+            "book_1": "Health Medicine",
             "text":"null",
             "phone":"(562) 123-5698",
             "email":"test2@mail.ru",
@@ -24,7 +26,8 @@
         },
         {
             "id":"3",
-            "may":"Colourpop",       
+            "may":"Colourpop",
+            "book_1": "Boston Cooking",
             "text":null,
             "phone":"(325)019-5190",
             "price":"10.5 $$",
@@ -36,6 +39,7 @@
         {
             "id":"4",
             "may":"Nyx",
+            "book_1": "School Magazine",
             "text":"Hello4",
             "phone":"2567459999",
             "price":"2000,89",
